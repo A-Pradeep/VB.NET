@@ -1,0 +1,334 @@
+G:\AS.NET Works\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.dll
+G:\AS.NET Works\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.pdb
+G:\AS.NET Works\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.xml
+G:\AS.NET Works\Bank of Swiss\Bank of Swiss\obj\Debug\Bank_of_Swiss.Resources.resources
+G:\AS.NET Works\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.vbproj.GenerateResource.Cache
+G:\AS.NET Works\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.dll
+G:\AS.NET Works\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.xml
+G:\AS.NET Works\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.pdb
+J:\ASP.NET works\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.dll
+J:\ASP.NET works\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.pdb
+J:\ASP.NET works\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.xml
+J:\ASP.NET works\Bank of Swiss\Bank of Swiss\obj\Debug\Bank_of_Swiss.Resources.resources
+J:\ASP.NET works\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.vbproj.GenerateResource.Cache
+J:\ASP.NET works\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.dll
+J:\ASP.NET works\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.xml
+J:\ASP.NET works\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.pdb
+F:\ASP.NET works\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.dll
+F:\ASP.NET works\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.pdb
+F:\ASP.NET works\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.xml
+F:\ASP.NET works\Bank of Swiss\Bank of Swiss\obj\Debug\ResolveAssemblyReference.cache
+F:\ASP.NET works\Bank of Swiss\Bank of Swiss\obj\Debug\Bank_of_Swiss.Resources.resources
+F:\ASP.NET works\Bank of Swiss\Bank of Swiss\obj\Debug\GenerateResource.read.1.tlog
+F:\ASP.NET works\Bank of Swiss\Bank of Swiss\obj\Debug\GenerateResource.write.1.tlog
+F:\ASP.NET works\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.dll
+F:\ASP.NET works\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.xml
+F:\ASP.NET works\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.pdb
+G:\AS.NET Works\Bank of Swiss\Bank of Swiss\bin\AjaxControlToolkit.pdb
+G:\AS.NET Works\Bank of Swiss\Bank of Swiss\bin\ar\AjaxControlToolkit.resources.dll
+G:\AS.NET Works\Bank of Swiss\Bank of Swiss\bin\cs\AjaxControlToolkit.resources.dll
+G:\AS.NET Works\Bank of Swiss\Bank of Swiss\bin\de\AjaxControlToolkit.resources.dll
+G:\AS.NET Works\Bank of Swiss\Bank of Swiss\bin\es\AjaxControlToolkit.resources.dll
+G:\AS.NET Works\Bank of Swiss\Bank of Swiss\bin\fr\AjaxControlToolkit.resources.dll
+G:\AS.NET Works\Bank of Swiss\Bank of Swiss\bin\he\AjaxControlToolkit.resources.dll
+G:\AS.NET Works\Bank of Swiss\Bank of Swiss\bin\hi\AjaxControlToolkit.resources.dll
+G:\AS.NET Works\Bank of Swiss\Bank of Swiss\bin\it\AjaxControlToolkit.resources.dll
+G:\AS.NET Works\Bank of Swiss\Bank of Swiss\bin\ja\AjaxControlToolkit.resources.dll
+G:\AS.NET Works\Bank of Swiss\Bank of Swiss\bin\ko\AjaxControlToolkit.resources.dll
+G:\AS.NET Works\Bank of Swiss\Bank of Swiss\bin\nl\AjaxControlToolkit.resources.dll
+G:\AS.NET Works\Bank of Swiss\Bank of Swiss\bin\pt\AjaxControlToolkit.resources.dll
+G:\AS.NET Works\Bank of Swiss\Bank of Swiss\bin\ru\AjaxControlToolkit.resources.dll
+G:\AS.NET Works\Bank of Swiss\Bank of Swiss\bin\tr-TR\AjaxControlToolkit.resources.dll
+G:\AS.NET Works\Bank of Swiss\Bank of Swiss\bin\zh-CHS\AjaxControlToolkit.resources.dll
+G:\AS.NET Works\Bank of Swiss\Bank of Swiss\bin\zh-CHT\AjaxControlToolkit.resources.dll
+G:\AS.NET Works\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.vbprojResolveAssemblyReference.cache
+H:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.dll
+H:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.pdb
+H:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.xml
+H:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\AjaxControlToolkit.pdb
+H:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\ar\AjaxControlToolkit.resources.dll
+H:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\cs\AjaxControlToolkit.resources.dll
+H:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\de\AjaxControlToolkit.resources.dll
+H:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\es\AjaxControlToolkit.resources.dll
+H:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\fr\AjaxControlToolkit.resources.dll
+H:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\he\AjaxControlToolkit.resources.dll
+H:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\hi\AjaxControlToolkit.resources.dll
+H:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\it\AjaxControlToolkit.resources.dll
+H:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\ja\AjaxControlToolkit.resources.dll
+H:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\ko\AjaxControlToolkit.resources.dll
+H:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\nl\AjaxControlToolkit.resources.dll
+H:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\pt\AjaxControlToolkit.resources.dll
+H:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\ru\AjaxControlToolkit.resources.dll
+H:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\tr-TR\AjaxControlToolkit.resources.dll
+H:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\zh-CHS\AjaxControlToolkit.resources.dll
+H:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\zh-CHT\AjaxControlToolkit.resources.dll
+H:\Bank of Swiss\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.vbprojResolveAssemblyReference.cache
+H:\Bank of Swiss\Bank of Swiss\Bank of Swiss\obj\Debug\Bank_of_Swiss.Resources.resources
+H:\Bank of Swiss\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.vbproj.GenerateResource.Cache
+H:\Bank of Swiss\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.dll
+H:\Bank of Swiss\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.xml
+H:\Bank of Swiss\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.pdb
+D:\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.dll
+D:\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.pdb
+D:\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.xml
+D:\Bank of Swiss\Bank of Swiss\bin\AjaxControlToolkit.pdb
+D:\Bank of Swiss\Bank of Swiss\bin\ar\AjaxControlToolkit.resources.dll
+D:\Bank of Swiss\Bank of Swiss\bin\cs\AjaxControlToolkit.resources.dll
+D:\Bank of Swiss\Bank of Swiss\bin\de\AjaxControlToolkit.resources.dll
+D:\Bank of Swiss\Bank of Swiss\bin\es\AjaxControlToolkit.resources.dll
+D:\Bank of Swiss\Bank of Swiss\bin\fr\AjaxControlToolkit.resources.dll
+D:\Bank of Swiss\Bank of Swiss\bin\he\AjaxControlToolkit.resources.dll
+D:\Bank of Swiss\Bank of Swiss\bin\hi\AjaxControlToolkit.resources.dll
+D:\Bank of Swiss\Bank of Swiss\bin\it\AjaxControlToolkit.resources.dll
+D:\Bank of Swiss\Bank of Swiss\bin\ja\AjaxControlToolkit.resources.dll
+D:\Bank of Swiss\Bank of Swiss\bin\ko\AjaxControlToolkit.resources.dll
+D:\Bank of Swiss\Bank of Swiss\bin\nl\AjaxControlToolkit.resources.dll
+D:\Bank of Swiss\Bank of Swiss\bin\pt\AjaxControlToolkit.resources.dll
+D:\Bank of Swiss\Bank of Swiss\bin\ru\AjaxControlToolkit.resources.dll
+D:\Bank of Swiss\Bank of Swiss\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\Bank of Swiss\Bank of Swiss\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\Bank of Swiss\Bank of Swiss\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.vbprojResolveAssemblyReference.cache
+D:\Bank of Swiss\Bank of Swiss\obj\Debug\Bank_of_Swiss.Resources.resources
+D:\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.vbproj.GenerateResource.Cache
+D:\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.dll
+D:\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.xml
+D:\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.pdb
+I:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.dll
+I:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.pdb
+I:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.xml
+I:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\AjaxControlToolkit.pdb
+I:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\ar\AjaxControlToolkit.resources.dll
+I:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\cs\AjaxControlToolkit.resources.dll
+I:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\de\AjaxControlToolkit.resources.dll
+I:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\es\AjaxControlToolkit.resources.dll
+I:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\fr\AjaxControlToolkit.resources.dll
+I:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\he\AjaxControlToolkit.resources.dll
+I:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\hi\AjaxControlToolkit.resources.dll
+I:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\it\AjaxControlToolkit.resources.dll
+I:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\ja\AjaxControlToolkit.resources.dll
+I:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\ko\AjaxControlToolkit.resources.dll
+I:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\nl\AjaxControlToolkit.resources.dll
+I:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\pt\AjaxControlToolkit.resources.dll
+I:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\ru\AjaxControlToolkit.resources.dll
+I:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\tr-TR\AjaxControlToolkit.resources.dll
+I:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\zh-CHS\AjaxControlToolkit.resources.dll
+I:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\zh-CHT\AjaxControlToolkit.resources.dll
+I:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\obj\Debug\ResolveAssemblyReference.cache
+I:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\obj\Debug\Bank_of_Swiss.Resources.resources
+I:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\obj\Debug\GenerateResource.read.1.tlog
+I:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\obj\Debug\GenerateResource.write.1.tlog
+I:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.dll
+I:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.xml
+I:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.pdb
+J:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.dll
+J:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.pdb
+J:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.xml
+J:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\AjaxControlToolkit.pdb
+J:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\ar\AjaxControlToolkit.resources.dll
+J:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\cs\AjaxControlToolkit.resources.dll
+J:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\de\AjaxControlToolkit.resources.dll
+J:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\es\AjaxControlToolkit.resources.dll
+J:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\fr\AjaxControlToolkit.resources.dll
+J:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\he\AjaxControlToolkit.resources.dll
+J:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\hi\AjaxControlToolkit.resources.dll
+J:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\it\AjaxControlToolkit.resources.dll
+J:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\ja\AjaxControlToolkit.resources.dll
+J:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\ko\AjaxControlToolkit.resources.dll
+J:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\nl\AjaxControlToolkit.resources.dll
+J:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\pt\AjaxControlToolkit.resources.dll
+J:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\ru\AjaxControlToolkit.resources.dll
+J:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\tr-TR\AjaxControlToolkit.resources.dll
+J:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\zh-CHS\AjaxControlToolkit.resources.dll
+J:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\zh-CHT\AjaxControlToolkit.resources.dll
+J:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\obj\Debug\Bank_of_Swiss.Resources.resources
+J:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.dll
+J:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.xml
+J:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.pdb
+J:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.vbprojResolveAssemblyReference.cache
+J:\ASP.NET works\Bank of Swiss\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.vbproj.GenerateResource.Cache
+J:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.dll
+J:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.pdb
+J:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.xml
+J:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\AjaxControlToolkit.pdb
+J:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\ar\AjaxControlToolkit.resources.dll
+J:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\cs\AjaxControlToolkit.resources.dll
+J:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\de\AjaxControlToolkit.resources.dll
+J:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\es\AjaxControlToolkit.resources.dll
+J:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\fr\AjaxControlToolkit.resources.dll
+J:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\he\AjaxControlToolkit.resources.dll
+J:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\hi\AjaxControlToolkit.resources.dll
+J:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\it\AjaxControlToolkit.resources.dll
+J:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\ja\AjaxControlToolkit.resources.dll
+J:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\ko\AjaxControlToolkit.resources.dll
+J:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\nl\AjaxControlToolkit.resources.dll
+J:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\pt\AjaxControlToolkit.resources.dll
+J:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\ru\AjaxControlToolkit.resources.dll
+J:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\tr-TR\AjaxControlToolkit.resources.dll
+J:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\zh-CHS\AjaxControlToolkit.resources.dll
+J:\Bank of Swiss\Bank of Swiss\Bank of Swiss\bin\zh-CHT\AjaxControlToolkit.resources.dll
+J:\Bank of Swiss\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.vbprojResolveAssemblyReference.cache
+J:\Bank of Swiss\Bank of Swiss\Bank of Swiss\obj\Debug\Bank_of_Swiss.Resources.resources
+J:\Bank of Swiss\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.vbproj.GenerateResource.Cache
+J:\Bank of Swiss\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.dll
+J:\Bank of Swiss\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.xml
+J:\Bank of Swiss\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.pdb
+D:\ASP.Net 2010\E Banking\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.dll
+D:\ASP.Net 2010\E Banking\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.pdb
+D:\ASP.Net 2010\E Banking\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.xml
+D:\ASP.Net 2010\E Banking\Bank of Swiss\Bank of Swiss\bin\AjaxControlToolkit.pdb
+D:\ASP.Net 2010\E Banking\Bank of Swiss\Bank of Swiss\bin\ar\AjaxControlToolkit.resources.dll
+D:\ASP.Net 2010\E Banking\Bank of Swiss\Bank of Swiss\bin\cs\AjaxControlToolkit.resources.dll
+D:\ASP.Net 2010\E Banking\Bank of Swiss\Bank of Swiss\bin\de\AjaxControlToolkit.resources.dll
+D:\ASP.Net 2010\E Banking\Bank of Swiss\Bank of Swiss\bin\es\AjaxControlToolkit.resources.dll
+D:\ASP.Net 2010\E Banking\Bank of Swiss\Bank of Swiss\bin\fr\AjaxControlToolkit.resources.dll
+D:\ASP.Net 2010\E Banking\Bank of Swiss\Bank of Swiss\bin\he\AjaxControlToolkit.resources.dll
+D:\ASP.Net 2010\E Banking\Bank of Swiss\Bank of Swiss\bin\hi\AjaxControlToolkit.resources.dll
+D:\ASP.Net 2010\E Banking\Bank of Swiss\Bank of Swiss\bin\it\AjaxControlToolkit.resources.dll
+D:\ASP.Net 2010\E Banking\Bank of Swiss\Bank of Swiss\bin\ja\AjaxControlToolkit.resources.dll
+D:\ASP.Net 2010\E Banking\Bank of Swiss\Bank of Swiss\bin\ko\AjaxControlToolkit.resources.dll
+D:\ASP.Net 2010\E Banking\Bank of Swiss\Bank of Swiss\bin\nl\AjaxControlToolkit.resources.dll
+D:\ASP.Net 2010\E Banking\Bank of Swiss\Bank of Swiss\bin\pt\AjaxControlToolkit.resources.dll
+D:\ASP.Net 2010\E Banking\Bank of Swiss\Bank of Swiss\bin\ru\AjaxControlToolkit.resources.dll
+D:\ASP.Net 2010\E Banking\Bank of Swiss\Bank of Swiss\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\ASP.Net 2010\E Banking\Bank of Swiss\Bank of Swiss\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\ASP.Net 2010\E Banking\Bank of Swiss\Bank of Swiss\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\ASP.Net 2010\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\ResolveAssemblyReference.cache
+D:\ASP.Net 2010\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\Bank_of_Swiss.Resources.resources
+D:\ASP.Net 2010\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\GenerateResource.read.1.tlog
+D:\ASP.Net 2010\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\GenerateResource.write.1.tlog
+D:\ASP.Net 2010\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.dll
+D:\ASP.Net 2010\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.xml
+D:\ASP.Net 2010\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.pdb
+F:\E Banking\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.dll
+F:\E Banking\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.pdb
+F:\E Banking\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.xml
+F:\E Banking\Bank of Swiss\Bank of Swiss\bin\AjaxControlToolkit.pdb
+F:\E Banking\Bank of Swiss\Bank of Swiss\bin\ar\AjaxControlToolkit.resources.dll
+F:\E Banking\Bank of Swiss\Bank of Swiss\bin\cs\AjaxControlToolkit.resources.dll
+F:\E Banking\Bank of Swiss\Bank of Swiss\bin\de\AjaxControlToolkit.resources.dll
+F:\E Banking\Bank of Swiss\Bank of Swiss\bin\es\AjaxControlToolkit.resources.dll
+F:\E Banking\Bank of Swiss\Bank of Swiss\bin\fr\AjaxControlToolkit.resources.dll
+F:\E Banking\Bank of Swiss\Bank of Swiss\bin\he\AjaxControlToolkit.resources.dll
+F:\E Banking\Bank of Swiss\Bank of Swiss\bin\hi\AjaxControlToolkit.resources.dll
+F:\E Banking\Bank of Swiss\Bank of Swiss\bin\it\AjaxControlToolkit.resources.dll
+F:\E Banking\Bank of Swiss\Bank of Swiss\bin\ja\AjaxControlToolkit.resources.dll
+F:\E Banking\Bank of Swiss\Bank of Swiss\bin\ko\AjaxControlToolkit.resources.dll
+F:\E Banking\Bank of Swiss\Bank of Swiss\bin\nl\AjaxControlToolkit.resources.dll
+F:\E Banking\Bank of Swiss\Bank of Swiss\bin\pt\AjaxControlToolkit.resources.dll
+F:\E Banking\Bank of Swiss\Bank of Swiss\bin\ru\AjaxControlToolkit.resources.dll
+F:\E Banking\Bank of Swiss\Bank of Swiss\bin\tr-TR\AjaxControlToolkit.resources.dll
+F:\E Banking\Bank of Swiss\Bank of Swiss\bin\zh-CHS\AjaxControlToolkit.resources.dll
+F:\E Banking\Bank of Swiss\Bank of Swiss\bin\zh-CHT\AjaxControlToolkit.resources.dll
+F:\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.vbprojResolveAssemblyReference.cache
+F:\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\Bank_of_Swiss.Resources.resources
+F:\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.vbproj.GenerateResource.Cache
+F:\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.dll
+F:\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.xml
+F:\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.pdb
+D:\E Banking\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.dll
+D:\E Banking\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.pdb
+D:\E Banking\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.xml
+D:\E Banking\Bank of Swiss\Bank of Swiss\bin\AjaxControlToolkit.pdb
+D:\E Banking\Bank of Swiss\Bank of Swiss\bin\ar\AjaxControlToolkit.resources.dll
+D:\E Banking\Bank of Swiss\Bank of Swiss\bin\cs\AjaxControlToolkit.resources.dll
+D:\E Banking\Bank of Swiss\Bank of Swiss\bin\de\AjaxControlToolkit.resources.dll
+D:\E Banking\Bank of Swiss\Bank of Swiss\bin\es\AjaxControlToolkit.resources.dll
+D:\E Banking\Bank of Swiss\Bank of Swiss\bin\fr\AjaxControlToolkit.resources.dll
+D:\E Banking\Bank of Swiss\Bank of Swiss\bin\he\AjaxControlToolkit.resources.dll
+D:\E Banking\Bank of Swiss\Bank of Swiss\bin\hi\AjaxControlToolkit.resources.dll
+D:\E Banking\Bank of Swiss\Bank of Swiss\bin\it\AjaxControlToolkit.resources.dll
+D:\E Banking\Bank of Swiss\Bank of Swiss\bin\ja\AjaxControlToolkit.resources.dll
+D:\E Banking\Bank of Swiss\Bank of Swiss\bin\ko\AjaxControlToolkit.resources.dll
+D:\E Banking\Bank of Swiss\Bank of Swiss\bin\nl\AjaxControlToolkit.resources.dll
+D:\E Banking\Bank of Swiss\Bank of Swiss\bin\pt\AjaxControlToolkit.resources.dll
+D:\E Banking\Bank of Swiss\Bank of Swiss\bin\ru\AjaxControlToolkit.resources.dll
+D:\E Banking\Bank of Swiss\Bank of Swiss\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\E Banking\Bank of Swiss\Bank of Swiss\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\E Banking\Bank of Swiss\Bank of Swiss\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.vbprojResolveAssemblyReference.cache
+D:\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\Bank_of_Swiss.Resources.resources
+D:\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.vbproj.GenerateResource.Cache
+D:\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.dll
+D:\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.xml
+D:\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.pdb
+C:\Program Files (x86)\E Banking\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.dll
+C:\Program Files (x86)\E Banking\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.pdb
+C:\Program Files (x86)\E Banking\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.xml
+C:\Program Files (x86)\E Banking\Bank of Swiss\Bank of Swiss\bin\AjaxControlToolkit.pdb
+C:\Program Files (x86)\E Banking\Bank of Swiss\Bank of Swiss\bin\ar\AjaxControlToolkit.resources.dll
+C:\Program Files (x86)\E Banking\Bank of Swiss\Bank of Swiss\bin\cs\AjaxControlToolkit.resources.dll
+C:\Program Files (x86)\E Banking\Bank of Swiss\Bank of Swiss\bin\de\AjaxControlToolkit.resources.dll
+C:\Program Files (x86)\E Banking\Bank of Swiss\Bank of Swiss\bin\es\AjaxControlToolkit.resources.dll
+C:\Program Files (x86)\E Banking\Bank of Swiss\Bank of Swiss\bin\fr\AjaxControlToolkit.resources.dll
+C:\Program Files (x86)\E Banking\Bank of Swiss\Bank of Swiss\bin\he\AjaxControlToolkit.resources.dll
+C:\Program Files (x86)\E Banking\Bank of Swiss\Bank of Swiss\bin\hi\AjaxControlToolkit.resources.dll
+C:\Program Files (x86)\E Banking\Bank of Swiss\Bank of Swiss\bin\it\AjaxControlToolkit.resources.dll
+C:\Program Files (x86)\E Banking\Bank of Swiss\Bank of Swiss\bin\ja\AjaxControlToolkit.resources.dll
+C:\Program Files (x86)\E Banking\Bank of Swiss\Bank of Swiss\bin\ko\AjaxControlToolkit.resources.dll
+C:\Program Files (x86)\E Banking\Bank of Swiss\Bank of Swiss\bin\nl\AjaxControlToolkit.resources.dll
+C:\Program Files (x86)\E Banking\Bank of Swiss\Bank of Swiss\bin\pt\AjaxControlToolkit.resources.dll
+C:\Program Files (x86)\E Banking\Bank of Swiss\Bank of Swiss\bin\ru\AjaxControlToolkit.resources.dll
+C:\Program Files (x86)\E Banking\Bank of Swiss\Bank of Swiss\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Program Files (x86)\E Banking\Bank of Swiss\Bank of Swiss\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Program Files (x86)\E Banking\Bank of Swiss\Bank of Swiss\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Program Files (x86)\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.vbprojResolveAssemblyReference.cache
+C:\Program Files (x86)\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\Bank_of_Swiss.Resources.resources
+C:\Program Files (x86)\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.vbproj.GenerateResource.Cache
+C:\Program Files (x86)\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.dll
+C:\Program Files (x86)\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.xml
+C:\Program Files (x86)\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.pdb
+D:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.dll
+D:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.pdb
+D:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.xml
+D:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\AjaxControlToolkit.pdb
+D:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\ar\AjaxControlToolkit.resources.dll
+D:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\cs\AjaxControlToolkit.resources.dll
+D:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\de\AjaxControlToolkit.resources.dll
+D:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\es\AjaxControlToolkit.resources.dll
+D:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\fr\AjaxControlToolkit.resources.dll
+D:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\he\AjaxControlToolkit.resources.dll
+D:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\hi\AjaxControlToolkit.resources.dll
+D:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\it\AjaxControlToolkit.resources.dll
+D:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\ja\AjaxControlToolkit.resources.dll
+D:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\ko\AjaxControlToolkit.resources.dll
+D:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\nl\AjaxControlToolkit.resources.dll
+D:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\pt\AjaxControlToolkit.resources.dll
+D:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\ru\AjaxControlToolkit.resources.dll
+D:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.vbprojResolveAssemblyReference.cache
+D:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\Bank_of_Swiss.Resources.resources
+D:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.vbproj.GenerateResource.Cache
+D:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.dll
+D:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.xml
+D:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.pdb
+I:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.dll.config
+I:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.dll
+I:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.pdb
+I:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\Bank of Swiss.xml
+I:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\AjaxControlToolkit.pdb
+I:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\ar\AjaxControlToolkit.resources.dll
+I:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\cs\AjaxControlToolkit.resources.dll
+I:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\de\AjaxControlToolkit.resources.dll
+I:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\es\AjaxControlToolkit.resources.dll
+I:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\fr\AjaxControlToolkit.resources.dll
+I:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\he\AjaxControlToolkit.resources.dll
+I:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\hi\AjaxControlToolkit.resources.dll
+I:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\it\AjaxControlToolkit.resources.dll
+I:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\ja\AjaxControlToolkit.resources.dll
+I:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\ko\AjaxControlToolkit.resources.dll
+I:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\nl\AjaxControlToolkit.resources.dll
+I:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\pt\AjaxControlToolkit.resources.dll
+I:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\ru\AjaxControlToolkit.resources.dll
+I:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\tr-TR\AjaxControlToolkit.resources.dll
+I:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\zh-CHS\AjaxControlToolkit.resources.dll
+I:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\bin\zh-CHT\AjaxControlToolkit.resources.dll
+I:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.vbprojResolveAssemblyReference.cache
+I:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\Bank_of_Swiss.Resources.resources
+I:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.vbproj.GenerateResource.Cache
+I:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.vbproj.CoreCompileInputs.cache
+I:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.dll
+I:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.xml
+I:\PS desktop files\E Banking\Bank of Swiss\Bank of Swiss\obj\Debug\Bank of Swiss.pdb
